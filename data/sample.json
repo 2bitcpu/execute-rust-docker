@@ -1,0 +1,27 @@
+{
+  "books": {
+    "book": [
+      {
+        "author": "Patrick Rothfuss",
+        "category": "fantasy",
+        "data1": 1,
+        "data10": 10,
+        "data2": 2,
+        "title": "The Name of the Wind",
+        "year": 2007
+      },
+      {
+        "author": "Patrick Rothfuss",
+        "category": "real",
+        "title": "The Name of the Wind",
+        "year": 2007
+      },
+      {
+        "author": null,
+        "category": "documentary",
+        "title": "The Name of the Wind",
+        "year": 2007
+      }
+    ]
+  }
+}

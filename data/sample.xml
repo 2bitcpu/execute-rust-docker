@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<books>
+    <book category="fantasy">
+        <title>The Name of the Wind</title>
+        <data1>1</data1>
+        <data2>2</data2>
+        <data10>10</data10>
+        <author>Patrick Rothfuss</author>
+        <year>2007</year>
+    </book>
+    <book category="real">
+        <title>The Name of the Wind</title>
+        <author>Patrick Rothfuss</author>
+        <year>2007</year>
+    </book>
+    <book category="documentary">
+        <title>The Name of the Wind</title>
+        <author></author>
+        <year>2007</year>
+    </book>
+</books>
